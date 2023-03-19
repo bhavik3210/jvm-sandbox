@@ -1,0 +1,163 @@
+
+#node modules
+node_modules
+# generated files
+bin/
+gen/
+.gradle
+/*/local.properties
+/*/out
+libraries/*/build
+/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+/build/intermediates
+
+# Eclipse project files
+*.classpath
+*.project
+*.settings
+
+#Ignore intelliJ file
+.idea
+out
+
+#Mac base files
+.DS_Store
+
+
+#ignore ant properties
+ant.properties
+local.properties
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+*.class
+
+*.diff
+*.hprof
+#Aditional folders
+doc/
+back/
+
+.apt_generated
+
+target/
+
+
+build
+/.idea
+.project
+/.project
+.grunt
+.lock-wscript
+*.log
+*.pid
+*.seed
+lib-cov
+coverage
+db.json
+logs
+pids
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Miscellaneous
+*.java.hsp
+*.sonarj
+*.sw*
+.DS_Store
+build.sh
+integration-repo
+ivy-cache
+argfile*
+activemq-data/
+classes/
+
+# Log files
+jxl.log
+jmx.log
+derby.log
+
+# Gradle artifacts
+.gradle
+.gradletasknamecache
+/build
+buildSrc/build
+/spring-*/build
+/spring-core/graalvm/build
+/spring-core/kotlin-coroutines/build
+/framework-bom/build
+/integration-tests/build
+/src/asciidoc/build
+spring-test/test-output/
+
+# Maven artifacts
+target/
+
+# Eclipse artifacts, including WTP generated manifests
+bin
+.classpath
+.project
+.settings
+.springBeans
+spring-*/src/main/java/META-INF/MANIFEST.MF
+
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
+out
+test-output
+atlassian-ide-plugin.xml
+
+# VS Code
+.vscode/
+
+
+
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
