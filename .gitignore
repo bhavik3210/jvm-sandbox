@@ -122,8 +122,6 @@ out
 test-output
 atlassian-ide-plugin.xml
 
-# VS Code
-.vscode/
 
 
 
@@ -158,6 +156,3 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-
-### VS Code ###
-.vscode/
