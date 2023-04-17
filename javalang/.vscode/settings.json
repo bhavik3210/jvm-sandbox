@@ -12,5 +12,6 @@
     "package.json": false,
     "tsconfig.json": false
   },
-  "explorer.compactFolders": true
+  "explorer.compactFolders": true,
+  "java.project.sourcePaths": ["app/src"]
 }
