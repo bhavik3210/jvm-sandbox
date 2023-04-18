@@ -13,5 +13,10 @@
     "tsconfig.json": false
   },
   "explorer.compactFolders": true,
-  "java.project.sourcePaths": ["app/src"]
+  "java.project.sourcePaths": ["app/src"],
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": null,
+  "editor.formatOnPaste": false
 }
