@@ -6,7 +6,8 @@
     "**/CVS": true,
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
-    ".idea": true,
-    ".vscode": true
-  }
+    ".idea": false,
+    ".vscode": false
+  },
+  "java.jdt.ls.java.home": "~/.sdkman/candidates/java/17.0.6-amzn"
 }
