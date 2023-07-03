@@ -1,4 +1,7 @@
 package dojo.lang.scala
+package gettingStarted
+
+import dummy.dummy
 
 case class Currency(code: String, amount: Double, toUSD: Double)
 

@@ -1,4 +1,5 @@
 package dojo.lang.scala
+package gettingStarted
 
 object Loop {
   def demo(): Unit = {

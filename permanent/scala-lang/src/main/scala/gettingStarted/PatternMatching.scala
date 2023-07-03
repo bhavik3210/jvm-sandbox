@@ -1,4 +1,5 @@
 package dojo.lang.scala
+package gettingStarted
 
 object PatternMatching {
   def demo(): Unit = {

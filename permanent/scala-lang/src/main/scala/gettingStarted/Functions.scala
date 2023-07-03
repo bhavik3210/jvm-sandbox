@@ -1,6 +1,5 @@
 package dojo.lang.scala
-
-import scala.:+
+package gettingStarted
 
 object Functions {
   def demo(): Unit = {
