@@ -1,7 +1,7 @@
 package dojo.lang.scala
 package gettingStarted
 
-import dummy.dummy
+import scala.language.implicitConversions
 
 case class Currency(code: String, amount: Double, toUSD: Double)
 
