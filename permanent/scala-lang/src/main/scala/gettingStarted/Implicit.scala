@@ -1,11 +1,7 @@
 package dojo.lang.scala
 package gettingStarted
 
-<<<<<<< HEAD
-=======
 import scala.language.implicitConversions
-
->>>>>>> 0653a89b01a2e6596462298710ee5f7aa37fad4e
 case class Currency(code: String, amount: Double, toUSD: Double)
 
 object Implicit extends App {
